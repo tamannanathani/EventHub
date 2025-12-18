@@ -1,4 +1,4 @@
-const API_BASE_URL = 'https://eventhub-1-t61x.onrender.com/';
+const API_BASE_URL = 'https://eventhub-1-t61x.onrender.com';
 
 interface EventFilters {
   location?: string;
